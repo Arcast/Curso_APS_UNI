@@ -1,0 +1,38 @@
+Fecha: 28/09/2019
+Docente: Jeremias Plata
+Correo: jeremias.plata@fcys.uni.edu.ni
+
+-----------------------------------------------------
+Usuario => Vista => Controlador => Modelo
+
+Model - Modelo 
+
+	Interactua, manipula los datos, Modelo de base de datos relacional
+
+View - Vista
+
+	C#, Html
+
+Controller - Controlador
+
+	Agente de negocio
+
+-----------------------------------------------------
+
+Las ventas es el encabezado y el pie de pagina de la factura, el cuerpo es el detalle de venta
+
+-----------------------------------------------------
+
+1. Un Int pesa menos que un varchar
+2. las propiedades de la tabla debe ser del objeto tabla
+3. Las columnas 	
+
+-----------------------------------------------------
+
+select NEWID()
+
+-----------------------------------------------------
+
+Tarea: Crear una base de datos en sql server
+	Crear Procedimientos Almacenados
+	Modelo Relacional
